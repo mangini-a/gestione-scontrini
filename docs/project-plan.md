@@ -9,7 +9,7 @@ Quest'ultimo, infatti, prevede di poter sacrificare alcune delle funzionalità p
 # 3. Organizzazione del progetto
 Si può immaginare che il software da noi realizzato sia stato richiesto dal proprietario di un piccolo esercizio commerciale (bottega, minimarket, etc.); per quanto concerne le informazioni che l'utente deve fornire, le più rilevanti sono indubbiamente quelle relative all'inventario (ovvero, all'elenco dei prodotti ed ai rispettivi prezzi di vendita), le quali devono necessariamente essere comunicate ai programmatori.
 Dal punto di vista dell'organizzazione del progetto stesso, invece, le nostre figure collaboreranno nella forma di co-sviluppatori.
-# 4. Standard, linee guida, procedure
+# 4. Standard, linee guida e procedure
 Il progetto farà riferimento alle convenzioni per la programmazione Java come definite da Oracle.
 # 5. Attività di gestione
 Risulterà essenziale destinare a tutte le fasi di sviluppo del software un'adeguata attenzione: in ciò saremo supportati dal modello RAD, che prevede di riservare determinati intervalli di tempo alla totalità degli step intermedi, evitando di concentrarsi eccessivamente su alcuni di essi.
