@@ -1,5 +1,5 @@
 # 1. Introduzione
-Il progetto consiste nella realizzazione di un'applicazione per la gestione di un registratore di cassa.
+Il progetto consiste nella realizzazione di un'applicazione per la gestione di una sorta di registratore di cassa.
 Il sistema conterrà vari componenti software, i quali concorreranno nel raggiungimento del seguente scopo: offrire all'operatore, in linea con quanto avviene nella realtà, la possibilità di registrare una serie di scontrini, conoscendo un determinato elenco di prodotti selezionati dal cliente (tra quelli disponibili).
 Nello specifico, le interazioni utente-sistema verranno gestite mediante l'impiego di un'interfaccia grafica, mentre l'inventario del minimarket verrà aggiornato e conservato tramite l'ausilio di un database integrato.
 Ad occuparsi del lavoro saranno Mangini Alessandro (matr. n. 1079869) e Pesenti Luca (matr. n. 1079602).
