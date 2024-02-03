@@ -52,7 +52,7 @@ Le risorse e le spese saranno tracciate tramite gli strumenti di gestione del pr
 
 # 13. Cambiamenti
 La gestione dei cambiamenti avverrà attraverso un approccio agile, consentendo un incorporamento rapido ed efficiente di modifiche durante lo sviluppo. 
-I cambiamenti saranno registrati, valutati in termini di costo e messi a terra nel progetto soltanto successivamente all'approvazione.
+I cambiamenti saranno registrati, valutati in termini di costo ed implementati soltanto dopo essere stati approvati.
 
 # 14. Consegna
 Le procedure di consegna comprendono una revisione finale del software, la redazione di una documentazione completa e sessioni di formazione per gli utenti. 
