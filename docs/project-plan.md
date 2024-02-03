@@ -10,7 +10,7 @@ Quest’ultimo, infatti, permette di sacrificare alcune delle funzionalità orig
 
 # 3. Organizzazione del progetto
 L'interazione con gli enti esterni sarà fondamentale per comprendere le specifiche esigenze dei piccoli esercizi commerciali. 
-L'organigramma del team di progetto evidenzierà il PM, i DEV e i TEST, con ruoli e responsabilità chiaramente definiti: Project Manager (PM) responsabile della supervisione generale, Sviluppatori (DEV) incaricati della creazione del software, e i Tester (TEST) dedicati alla verifica e validazione. 
+L'organigramma del team di progetto evidenzierà il PM, i DEV e i TEST, con ruoli e responsabilità chiaramente definiti: Project Manager (PM) responsabile della supervisione generale, Sviluppatori (DEV) incaricati della creazione del software e Tester (TEST) dedicati alla verifica e validazione. 
 Si prevede il coinvolgimento attivo degli utenti attraverso sessioni di feedback periodiche per garantire un prodotto che rispecchi appieno le esigenze del cliente.
 La comunicazione di informazioni da parte degli utenti sarà cruciale per alimentare l'inventario e per guidare lo sviluppo dell'applicazione in base alle necessità effettive del mercato.
 
