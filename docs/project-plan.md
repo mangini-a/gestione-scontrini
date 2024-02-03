@@ -1,8 +1,9 @@
 # 1. Introduzione
-Il progetto consiste nella realizzazione di un'applicazione per la gestione di una sorta di registratore di cassa.
-Il sistema conterrà vari componenti software, i quali concorreranno nel raggiungimento del seguente scopo: offrire all'operatore, in linea con quanto avviene nella realtà, la possibilità di registrare una serie di scontrini, conoscendo un determinato elenco di prodotti selezionati dal cliente (tra quelli disponibili).
-Nello specifico, le interazioni utente-sistema verranno gestite ricorrendo ad un'interfaccia grafica, mentre l'inventario del minimarket verrà aggiornato e conservato tramite l'ausilio di un database integrato.
+Il progetto consiste nella realizzazione di un’applicazione per la gestione di una sorta di registratore di cassa, utilizzato nel contesto di un piccolo esercizio commerciale (bottega, minimarket, etc.).
+Il sistema conterrà vari componenti software, i quali concorreranno nell’offrire all’operatore la possibilità di registrare una serie di scontrini, conoscendo una determinata lista di prodotti selezionati dal cliente.
+Nello specifico, l’utente potrà usufruire del sistema interagendo con un’interfaccia grafica, mentre l’inventario del negozio verrà conservato (ed eventualmente aggiornato) tramite l’ausilio di un database integrato.
 Ad occuparsi del lavoro saranno Mangini Alessandro (matr. n. 1079869) e Pesenti Luca (matr. n. 1079602).
+
 # 2. Modello di processo
 Dal momento che l'applicazione potrebbe essere sviluppata in maniera più o meno dettagliata, presentando quindi diversi gradi di complessità, il modello selezionato per strutturare il processo di sviluppo del software è lo sviluppo rapido delle applicazioni (RAD).
 Quest'ultimo, infatti, prevede di poter sacrificare alcune delle funzionalità previste qualora esse non possano essere realizzate entro l'intervallo di tempo predeterminato (in questo caso, la data di consegna del progetto): ciò è consentito, in particolare, dalla prioritizzazione dei requisiti prevista da questo modello, conosciuta con l'acronimo MoSCoW.
